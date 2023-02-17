@@ -14,7 +14,7 @@ public class Main {
 
 
     }
-
+;jhwdgrglkjsdrhbfglkisdfgkj
     public static void division() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Veuillez saisir le premier entier");
